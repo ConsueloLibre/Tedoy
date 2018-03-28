@@ -77,6 +77,15 @@ Como podemos observar un grupo grande 41,4% de quienes piden por tedoy no ha pod
 
 El motivo también marca una tendencia, quien regalaba no hablo más, por ende hemos descubierto que debemos trabajar en otorgar un sistema de reputación y valoración a cada uno de los usuarios activos en la comunidad, me refiero  a quienes realizan la acción de dar y pedir puedan elegir a quién otorgar el artículo y tener probabilidades mínimas de no concretar.  
 
+![4](https://user-images.githubusercontent.com/32283943/38002247-76e74282-3207-11e8-9abe-d5ce77ea7969.png)
+
+Dado a que si no logras concretar la entrega la mayoría se queda con el artículo en su casa, no se logra el sistema de economía circular y los objetos que podrían ser utilizados por otros no lo son y pierden su utilidad. 
+
+
+
+Aca les muestro ejemplos del wireframe que cree enfocado en la problemática n°1
+
+
 
 
 
