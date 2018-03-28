@@ -73,4 +73,11 @@ Problemática N°1 el hecho de que los acuerdos de dar y recibir muchas veces se
 
 Como podemos observar un grupo grande 41,4% de quienes piden por tedoy no ha podido concretar la entrega.
 
+![2](https://user-images.githubusercontent.com/32283943/38002193-4400f584-3207-11e8-9c17-32c0614e4eb9.png)
+
+El motivo también marca una tendencia, quien regalaba no hablo más, por ende hemos descubierto que debemos trabajar en otorgar un sistema de reputación y valoración a cada uno de los usuarios activos en la comunidad, me refiero  a quienes realizan la acción de dar y pedir puedan elegir a quién otorgar el artículo y tener probabilidades mínimas de no concretar.  
+
+
+
+
 
