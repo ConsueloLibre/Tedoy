@@ -55,5 +55,22 @@ En base a esta última pregunta trabajare en un Wireframe, haré una mejora digi
 
 ### Encuesta Online.
 Cree la siguiente encuesta con el fin de dar con algún insight que me ayude a validar y a encaminar y dar foco al diseño del prototipo 
+Aqui esta el enlace de la encuesta. https://goo.gl/forms/RWAY4nYUkJPP9qI02
+  
+
+Síntesis
+
+El insight y las soluciones.
+
+Luego de recolectar más de 113 respuestas en la encuesta pude validar una de la problemáticas mencionadas más arriba. 
+
+
+
+Problemática N°1 el hecho de que los acuerdos de dar y recibir muchas veces se ven truncadas y  no son concretados por falta de seguimiento u otros factores. 
+
+
+![1](https://user-images.githubusercontent.com/32283943/38002027-6b5a9cee-3206-11e8-82bb-bd1dc4b5b54b.png)
+
+Como podemos observar un grupo grande 41,4% de quienes piden por tedoy no ha podido concretar la entrega.
 
 
