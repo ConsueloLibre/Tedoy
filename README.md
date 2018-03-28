@@ -150,6 +150,7 @@ https://docs.google.com/document/d/1UDakTIzaQ_QUjsXjUWpj6hvvPQEG7ulUwkXSh7Cr4Jk/
 Luego de determinar con las más de 40 pantallas de mi sketch me puse manos a la obra, y decidí utilizar la herramienta de prototipado Figma ya que me resulta bastante intuitivo. 
 es en este donde trabaje por los menos 4 días para lograr una primera versión del wireframe. 
 Prototipo Tedoy en Figma.
+
 Link todas las vistas https://www.figma.com/file/8kEjS1eS2IR3uatJtnWNBf/Tedoy
 
 Link presentación prototipo https://www.figma.com/proto/8kEjS1eS2IR3uatJtnWNBf/Tedoy?scaling=contain&node-id=14008%3A8
