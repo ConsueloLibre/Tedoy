@@ -66,7 +66,8 @@ Luego de recolectar más de 113 respuestas en la encuesta pude validar una de la
 
 
 
-Problemática N°1 el hecho de que los acuerdos de dar y recibir muchas veces se ven truncadas y  no son concretados por falta de seguimiento u otros factores. 
+### Problemática N°1 
+El hecho de que los acuerdos de dar y recibir muchas veces se ven truncadas y  no son concretados por falta de seguimiento u otros factores. 
 
 
 ![1](https://user-images.githubusercontent.com/32283943/38002027-6b5a9cee-3206-11e8-82bb-bd1dc4b5b54b.png)
@@ -95,5 +96,16 @@ En la segunda se puede ver en detalle, cuál fue la puntuación y el comentario 
 En la tercera imagen se muestra como se hace pública la información cuando publicas, asi quien pide podrá tener una percepción previa de cómo ha sido valorado por sus otras experiencias, con esta información publica los usuarios deberan esmerarse en entregar esta experiencia para no perjudicar su reputación, mejorando el margen de error en concretar la entrega. 
 
 
+### Problemática N°2 
+Como segunda mejora, he decidido ayudar al negocio con el modelo B2B, (Business to business) por que me interesa mucho que el movimiento pueda crecer, para que la función del cliente en la página  (“customer manager”) se reduzca al mínimo esfuerzo y evitar la revisión de cada publicación que entra en el grupo, verificando que se cumplean las normas de convivencia establecidas en el grupo de facebook, que conlleva.
+
+1 saludar .
+2 Mencionar lo que necesitas.
+3 Indicar el sector donde entregas. 
+
+Debo lograr la efectividad y eficiencia, que merece la comunidad Tedoy siempre con el foco de reducir la carga cognitiva de mi cliente. 
+
+
+Aca les dejo ejemplos del wireframe basados en subsanar la problemática N°2
 
 
