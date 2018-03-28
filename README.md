@@ -137,3 +137,49 @@ User persona
 ### Definición y arquitectura de la información
 En base a la entrevista realizada a los stakeholders definimos en conjunto, (ellos y yo) cuales serian los contenidos que debería llevar la web mobile, es en este  contexto que cree un un sitemap para estructurar la idea final de mi wireframe. 
 
+Luego de definir el contenido trabaje en un content flow, que definirá el flujo de contenido de mi web mobile. 
+
+Luego de definir de el ¿Que? ¿Porque? me faltaba el cómo, es asi como llegue a la fabricación de mis sketches, sin duda es uno de los procesos más entretenidos de mi proyecto, siempre me ha gustado diseñar en papel, es muy enraizado y saca toda tu esencia de el transmitir a través de las imágenes. 
+
+https://docs.google.com/document/d/1UDakTIzaQ_QUjsXjUWpj6hvvPQEG7ulUwkXSh7Cr4Jk/edit?usp=sharing
+
+
+
+### Prototipado
+
+Luego de determinar con las más de 40 pantallas de mi sketch me puse manos a la obra, y decidí utilizar la herramienta de prototipado Figma ya que me resulta bastante intuitivo. 
+es en este donde trabaje por los menos 4 días para lograr una primera versión del wireframe. 
+Prototipo Tedoy en Figma
+
+
+
+
+### Testing.
+Teniendo lista esta primera versión lleve a cabo la prueba de la usabilidad y entendimiento, buscando que los conceptos como el affordance estuviese presente en mi diseño. 
+
+Objetivo: Validar la usabilidad del wireframe, en base a tareas otorgadas el usuario debe cumplir y lograr el cometido de la página, lograr que el usuario pueda fluir sin forzar su mente, lograr que este sea intuitivo para quienes lo utilizan ppor primera vez. 
+
+Contexto: se ha mencionado a los 4 usuarios que testean, que ninguna acción está buena o mala y que verbalice de manera externa lo que vaya pasando cada vez que da un click o intenta realizar una acción. 
+
+Tarea:
+1- Deberás crear una cuenta.
+2-Intenta regalar.
+3- Intenta publicar.
+4-Llega al feed de publicaciones activas.
+
+Conclusión testeo: Luego de comprobar diversas fallas en la conexión de pantallas, error en algunas palabras, etc.  He realizado cambios importantes, para continuar con la fluidez en la navegación, esto no implicó un nuevo diseño, solo mejorar  detalles visuales y creación de nuevas pantallas que faltaban para hacer en el enlace con la tarea sugerida. 
+
+
+### Iteración. 
+En base a lo encontrado en el testing e incorporando nuevas secciones como mensajes y notificaciones, pero dado el acotamiento del tiempo no me fue posible completar estos, quedan pendientes en una nueva iteración, lo que sí tuve que agregar a como dé lugar fue la creación de las pantallas de la conversación que debería tener el usuario luego que acepta hacer match con la persona que tiene lo que necesitas o en su viceversa necesita lo que tienes, si acepta no había nada que te llevase a conversar de manera interna, esa fue la última creación de mi prototipo. 
+
+
+
+
+
+
+
+### En conclusión
+El trabajar con una entidad real, me llevo bastante dificultades, entender una problemática real y trabajar  en un fin de mejorar experiencias es super gratificador, por ahora todo mi trabajo queda plasmado en un formato digital no funcional, pero pretendo que se vea pronto reflejado en una web mobile real. 
+Con este proyecto me llevo un aprendizaje importantísimo que es que cada proceso tiene su tiempo, no es bueno llegar y meter mano en el wireframe sin saber en detalle de que va a estar compuesto, no es fácil dar solución a una problemática si no tenemos claro el usuario y la situación que puede estarle afectando,sin detectar su pain point o que lo mueve. 
+Gracias a los procesos sistemáticos podemos darle una forma más eficiente a nuestra investigación así mismo dar con la solución sin que nos demos cuenta que ya está resuelto. 
