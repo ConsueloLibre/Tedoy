@@ -58,7 +58,7 @@ Cree la siguiente encuesta con el fin de dar con algún insight que me ayude a v
 Aqui esta el enlace de la encuesta. https://goo.gl/forms/RWAY4nYUkJPP9qI02
   
 
-Síntesis
+### Síntesis
 
 El insight y las soluciones.
 
@@ -120,4 +120,20 @@ Ejemplo: Voy a regalar esta bicicleta que mi hija ya no usa → Ingreso a la pag
 
 
 Aca unos ejemplos del wireframe basado en la problemática N°3
+
+![8](https://user-images.githubusercontent.com/32283943/38002411-89f5e814-3208-11e8-82cd-f5b5987a126e.png)
+
+En la imagen 1 podemos ver que ingresando el titulo del articulo que pedimos el sistema reconocerá automáticamente alguna publicación con la necesidad del título, haciendo match y enviando una alerta a quien publica (imagen 2) es ahí donde el usuario tendrá la libertad de ver en detalle la publicación (imagen 3) y decidir si pide a quien regala o lo sube como publicación nueva. 
+
+
+
+### Ideación
+¿Como llegue a estas soluciones? En base al planteamiento de la situación, observación, entrevistas e investigación en general me propuse realizar la creación de los siguientes “User personas” para abrir mi mente y buscar soluciones las problemáticas ya planteados de una manera distinta, intentando comprender los mood y feeling asociados a estas personas. 
+Dejo el link de mis 
+User persona
+
+
+
+### Definición y arquitectura de la información
+En base a la entrevista realizada a los stakeholders definimos en conjunto, (ellos y yo) cuales serian los contenidos que debería llevar la web mobile, es en este  contexto que cree un un sitemap para estructurar la idea final de mi wireframe. 
 
