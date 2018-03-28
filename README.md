@@ -86,6 +86,13 @@ Dado a que si no logras concretar la entrega la mayoría se queda con el artícu
 Aca les muestro ejemplos del wireframe que cree enfocado en la problemática n°1
 
 
+![6](https://user-images.githubusercontent.com/32283943/38002308-c7bddba8-3207-11e8-9a0c-5a84566ea748.png)
+
+En la primera imagen se muestra un historial de valoraciones. cada vez que concretas acuerdos guardará  un registro de cada experiencia.
+
+En la segunda se puede ver en detalle, cuál fue la puntuación y el comentario otorgado en base a la experiencia de la entrega y el estado del artículo. 
+
+En la tercera imagen se muestra como se hace pública la información cuando publicas, asi quien pide podrá tener una percepción previa de cómo ha sido valorado por sus otras experiencias, con esta información publica los usuarios deberan esmerarse en entregar esta experiencia para no perjudicar su reputación, mejorando el margen de error en concretar la entrega. 
 
 
 
