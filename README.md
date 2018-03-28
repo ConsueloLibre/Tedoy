@@ -151,6 +151,7 @@ Luego de determinar con las más de 40 pantallas de mi sketch me puse manos a la
 es en este donde trabaje por los menos 4 días para lograr una primera versión del wireframe. 
 Prototipo Tedoy en Figma.
 Link todas las vistas https://www.figma.com/file/8kEjS1eS2IR3uatJtnWNBf/Tedoy
+
 Link presentación prototipo https://www.figma.com/proto/8kEjS1eS2IR3uatJtnWNBf/Tedoy?scaling=contain&node-id=14008%3A8
 
 
