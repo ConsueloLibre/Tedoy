@@ -108,4 +108,16 @@ Debo lograr la efectividad y eficiencia, que merece la comunidad Tedoy siempre c
 
 Aca les dejo ejemplos del wireframe basados en subsanar la problemática N°2
 
+![7](https://user-images.githubusercontent.com/32283943/38002372-489f0ea4-3208-11e8-9c1c-dcc596f8a45e.png)
+
+En la primera  y segunda imagen se ve el detalle de los datos obligatorios que debe llevar la publicación, el nombre del artículo, una breve descripción, la ciudad y comuna de dónde publica, además una referencia del sector. 
+
+
+### Problemática N°3 
+La Tercera mejora se basará en la búsqueda  de publicaciones relacionadas al título de quien publica. así mostraremos el match previo que pueda existir en una publicación activa. 
+Ejemplo: Voy a regalar esta bicicleta que mi hija ya no usa → Ingreso a la pagina y creo una publicación → antes que se suba hay un paso intermedio en donde te avisa que existe tal usuario que está buscando el artículo que regalas→ tu decides, lo regalas a quien lo solicitó previamente  o públicas para otra persona. 
+
+
+
+Aca unos ejemplos del wireframe basado en la problemática N°3
 
